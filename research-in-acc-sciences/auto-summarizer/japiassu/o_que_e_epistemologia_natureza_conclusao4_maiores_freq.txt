@@ -1,0 +1,1 @@
+['ciências', 'conhecimentos', 'epistemologia', 'produção']

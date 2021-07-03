@@ -1,0 +1,1 @@
+['bachelard', 'fatos', 'objeto', 'real', 'responder']

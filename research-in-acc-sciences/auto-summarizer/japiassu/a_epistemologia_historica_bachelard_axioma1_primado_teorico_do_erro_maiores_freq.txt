@@ -1,0 +1,1 @@
+['erro', 'erros', 'experiência', 'fundo', 'ideia', 'preciso', 'será', 'verdade']

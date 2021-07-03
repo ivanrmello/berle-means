@@ -1,0 +1,1 @@
+['conteúdo', 'experiência', 'papel', 'podemos']

@@ -1,0 +1,1 @@
+['conhecimento', 'epistemologia', 'genética', 'psicologia']

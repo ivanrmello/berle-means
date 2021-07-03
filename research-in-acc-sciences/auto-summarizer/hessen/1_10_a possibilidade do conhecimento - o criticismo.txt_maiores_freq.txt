@@ -1,0 +1,1 @@
+['conhecimento', 'criticismo', 'vista']

@@ -1,0 +1,1 @@
+['conhecimento', 'controle', 'especulação', 'filosofia', 'piaget', 'teoria']

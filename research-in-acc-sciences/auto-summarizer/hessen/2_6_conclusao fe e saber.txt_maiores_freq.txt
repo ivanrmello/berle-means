@@ -1,0 +1,1 @@
+['filosofia', 'fé', 'religião']

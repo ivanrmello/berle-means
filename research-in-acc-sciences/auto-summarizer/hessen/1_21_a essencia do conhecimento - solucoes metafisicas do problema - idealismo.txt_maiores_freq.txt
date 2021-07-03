@@ -1,0 +1,1 @@
+['consciência', 'idealismo', 'objeto']

@@ -1,0 +1,1 @@
+['científicas', 'ciências', 'filosofia', 'podemos', 'popper', 'problema', 'teoria', 'teorias']

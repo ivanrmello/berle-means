@@ -1,0 +1,1 @@
+['conhecimento', 'filosofia', 'pensamento', 'teoria']

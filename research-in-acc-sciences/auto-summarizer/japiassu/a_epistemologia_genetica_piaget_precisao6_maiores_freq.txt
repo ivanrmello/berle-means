@@ -1,0 +1,1 @@
+['dado', 'fato', 'mesma', 'piaget', 'sujeito']

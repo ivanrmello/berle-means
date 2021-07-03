@@ -1,0 +1,1 @@
+['ciência', 'conhecimento', 'criança', 'crianças', 'funcionamento', 'lógica', 'perguntar', 'pesquisas', 'problema', 'sociais', 'sócio', 'trata']
